@@ -25,6 +25,7 @@ const px = (path, sidebar) => {
 
 const sidebar = [
   '/introduction',
+  '/keywords',
   '/build-in-types'
 ]
 
