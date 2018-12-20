@@ -7,10 +7,11 @@
   "author": "Bichi Kim <bichi@live.co.kr>",
   "license": "MIT",
   "scripts": {
-    "dev": "vuepress dev",
-    "build": "vuepress build"
+    "dev": "cross-env NODE_ENV=production vuepress dev",
+    "build": "cross-env NODE_ENV=development vuepress build"
   },
   "devDependencies": {
+    "cross-env": "^5.2.0",
     "lodash": "^4.17.11",
     "vuepress": "^0.14.8"
   }
