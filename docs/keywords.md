@@ -16,4 +16,8 @@ function nameMaker(this: IHamburger, name: string) {
     console.log('cheese', name)
   }
 }
+
+// 함수 사용하기
+// name 부터가 첫번째 매개변수 이다.
+nameMaker.call({ham: true, cheese: true, tomato: false}, 'super burger')
 ```
