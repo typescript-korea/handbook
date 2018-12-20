@@ -22,12 +22,12 @@ module.exports = {
   base: '/',
   locales: {
     '/': {
-      lang: 'ko-KR',
+      lang: '한국어',
       title: '형태명령 손책',
       description: '타입스크립트 스터티용 핸드북입니다.'
     },
     '/en/': {
-      lang: 'en-US',
+      lang: 'English',
       title: 'Typescript Handbook',
       description: 'Typescript handbook for study'
     }
