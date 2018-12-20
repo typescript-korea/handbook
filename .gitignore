@@ -1,0 +1,17 @@
+# Env
+/.idea
+.env
+.npmrc
+
+# dependencies
+/node_modules
+
+# dist
+/coverage
+/dist
+/.vuepress/dist
+
+#log
+yarn-error.log
+
+#doc
