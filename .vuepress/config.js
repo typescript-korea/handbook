@@ -19,7 +19,7 @@ const sidebar = [
 
 
 module.exports = {
-  base: process.env.NODE_ENV === 'production' ? 'typescript-korea.github.io' :'/',
+  base: '/',
   locales: {
     '/': {
       lang: 'ko-KR',

@@ -7,8 +7,8 @@
   "author": "Bichi Kim <bichi@live.co.kr>",
   "license": "MIT",
   "scripts": {
-    "dev": "cross-env NODE_ENV=production vuepress dev",
-    "build": "cross-env NODE_ENV=development vuepress build"
+    "dev": "vuepress dev",
+    "build": "vuepress build"
   },
   "devDependencies": {
     "cross-env": "^5.2.0",
