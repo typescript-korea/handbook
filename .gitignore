@@ -9,7 +9,7 @@
 # dist
 /coverage
 /dist
-/.vuepress/dist
+/docs/.vuepress/dist
 
 #log
 yarn-error.log
