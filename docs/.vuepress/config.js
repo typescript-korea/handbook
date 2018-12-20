@@ -16,7 +16,7 @@ const px = (path, sidebar) => {
 
   return _.remove(paths, (value) => {
     const path = typeof value === 'string' ? value : value[0]
-    const originPath = join(process.cwd(), path)
+    const originPath = join(process.cwd(), 'docs', path)
     return fs.existsSync(`${originPath}.md`)
       || fs.existsSync(`${originPath}.html`)
       || fs.existsSync(join(originPath, 'README.md'))
