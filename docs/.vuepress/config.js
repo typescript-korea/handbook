@@ -26,7 +26,12 @@ const px = (path, sidebar) => {
 const sidebar = [
   '/introduction',
   '/keywords',
-  '/build-in-types'
+  '/build-in-types',
+  '/tsconfig.js',
+  '/tslint',
+  '/TSC',
+  '/vue-typescript',
+  '/awesome-typescript'
 ]
 
 
