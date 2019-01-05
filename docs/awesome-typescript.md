@@ -6,6 +6,6 @@
 
 - [vue-class-component](https://www.npmjs.com/package/vue-class-component)
 
-= [vue-class-component](https://www.npmjs.com/package/vue-property-decorator)
+- [vue-class-component](https://www.npmjs.com/package/vue-property-decorator)
 
 
