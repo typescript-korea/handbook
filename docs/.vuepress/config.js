@@ -27,7 +27,7 @@ const sidebar = [
   '/introduction',
   '/keywords',
   '/build-in-types',
-  '/tsconfig.js',
+  '/tsconfig.json',
   '/tslint',
   '/TSC',
   '/vue-typescript',
