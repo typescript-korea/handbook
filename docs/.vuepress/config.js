@@ -31,6 +31,7 @@ const sidebar = [
   '/tslint',
   '/TSC',
   '/vue-typescript',
+  '/honey-tip',
   '/awesome-typescript'
 ]
 
