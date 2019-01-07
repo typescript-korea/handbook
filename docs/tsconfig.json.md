@@ -21,7 +21,8 @@ $ tsc --jsx preserve --allowJs
 ### allowSyntheticDefaultImports
 - type Boolean
 
-###
+### esModuleInterop
+- type Boolean
 
 ## include
 - type Array
